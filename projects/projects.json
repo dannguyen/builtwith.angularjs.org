@@ -1507,6 +1507,24 @@
         "Mobile",
         "jQuery"
       ]
+    },
+    {
+      "name": "SummerStageLove", 
+      "thumb": "summerstagelove/thumb.png",
+      "desc": "A fast, simple way to search the SummerStage music festival listings and watch related videos.",
+      "url": "http://www.summerstagelove.com", 
+      "info": "http://hacksummerstage.com/submissions/15383-unofficial-summerstagelove",
+      "submitter": "dannguyen",
+      "submissionDate": "2013-05-13",
+      "tags": [
+        "Production",
+        "Entertainment",
+        "No jQuery",
+        "YouTube",
+        "Mobile",
+        "Compass",
+        "Responsive"
+      ]
     }
   ]
 }
